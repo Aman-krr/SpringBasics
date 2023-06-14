@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aman roy
+Build-Jdk: 17.0.1
+Implementation-Title: Spring Boot Quick Start Archetype
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.start
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBasic/
+Created-By: Maven Integration for Eclipse
+
